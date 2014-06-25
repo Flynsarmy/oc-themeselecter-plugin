@@ -2,6 +2,11 @@
 
 Demo any theme installed in October CMS by visiting a defined URL.
 
+## Installation
+
+* `git clone` into */plugins/flynsarmy/themeselecter* folder.
+* Log out and back in.
+
 ## Usage
 
 * Create a page with slug `theme/:theme` and add the `Theme Selecter` component
