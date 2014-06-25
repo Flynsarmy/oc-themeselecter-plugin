@@ -6,8 +6,6 @@ use Redirect;
 
 class Restorer extends ComponentBase
 {
-	protected $theme;
-
 	public function componentDetails()
 	{
 		return [

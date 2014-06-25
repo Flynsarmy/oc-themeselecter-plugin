@@ -6,8 +6,6 @@ use Redirect;
 
 class Selecter extends ComponentBase
 {
-	protected $theme;
-
 	public function componentDetails()
 	{
 		return [
